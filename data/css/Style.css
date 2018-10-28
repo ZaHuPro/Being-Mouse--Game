@@ -1,0 +1,103 @@
+﻿#headAll {
+    width: auto;
+    background-color: azure;
+    height: 200;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px antiquewhite;
+    text-decoration-color: aqua;
+}
+#welcome {
+    width: auto;
+    height: auto;
+    background-color: aquamarine;
+    text-align: center;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px bisque;
+}
+
+#user {
+    width: auto;
+    height: auto;
+    padding: 10px 10px 10px 10px;
+    background-color: bisque;
+    text-align: center;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px aquamarine;
+}
+
+#container {
+    width: auto;
+    height: 600px;
+    background-color: darksalmon;
+    position: relative;
+    background-image: url("tom-jerry.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+}
+#box {
+    width: 1250px;
+    height: 450px;
+    background-color: greenyellow;
+    position: absolute;
+
+}
+#Sboard {
+    width: auto;
+    height: auto;
+    background-color:antiquewhite;
+
+}
+
+#playon {
+    text-align:right;
+}
+#scorebox{
+    text-align:left;
+
+
+}
+
+#playbox {
+    text-align: center;
+    font-size:15px;
+    
+
+}
+
+/*#reset {
+    
+
+}*/
+.hoverOut {
+    color: red;
+    background-color: yellow;
+}
+
+.hoverIn {
+    background-color: red;
+    color: yellow;
+}
+
+#reset {
+    width: 100px;
+    height: 25px;
+    padding-top: 450px;
+    padding-right:100px;
+    float: right;
+    text-align: right;
+    color: darkred;
+    border-color: azure;
+    font-size: 25px;
+}
+}
+
+.jerry-image {
+    position: absolute;
+}
